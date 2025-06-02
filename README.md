@@ -28,8 +28,8 @@ A full-stack, AI-powered Mini CRM system built as part of the Xeno SDE Internshi
 
 For questions or feedback, feel free to reach out:
 
-- 📧 Email: [your.email@example.com](mailto:dilseeratjassal@gmail.com)  
-- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/dilseerat-kaur-9502702b0/)
+- 📧 Email: [Email](mailto:dilseeratjassal@gmail.com)  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dilseerat-kaur-9502702b0/)
 
 
 
