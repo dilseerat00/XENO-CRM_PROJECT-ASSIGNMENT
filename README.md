@@ -4,17 +4,6 @@ A full-stack, AI-powered Mini CRM system built as part of the Xeno SDE Internshi
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React.js / Next.js *(if included)*
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: Google OAuth 2.0
-- **AI Integration**: OpenAI API
-- **Other Tools**: Nodemon, dotenv
-
----
-
 ![Objectives](./images/objectives.png)
 
 ## ✨ Features
@@ -35,6 +24,12 @@ A full-stack, AI-powered Mini CRM system built as part of the Xeno SDE Internshi
 
 ![Future Enhancements](./images/enhancements.png)
 
+## 📬 Contact
+
+For questions or feedback, feel free to reach out:
+
+- 📧 Email: [your.email@example.com](mailto:dilseeratjassal@gmail.com)  
+- 🔗 LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/dilseerat-kaur-9502702b0/)
 
 
 
